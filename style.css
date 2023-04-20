@@ -1,0 +1,56 @@
+body{
+    background-color: antiquewhite;
+}
+
+.body1{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.barra {
+    list-style: none;
+    padding: o;
+    background-color: rgb(9, 9, 10);
+    width: 75%;
+    max-width: 850px;
+    margin: auto;
+}
+.barra li,a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.barra li {
+    display: inline-block;
+    text-align: center;
+}
+
+.barra li a:hover {
+    background: rgb(248, 166, 157);
+
+}
+
+.ima{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+p{
+    font-size: 23px;
+}
+
+.espacio{
+    width: 320px;
+    height: 300px;
+    margin: 30px 20px;
+}
+
+.tabla{
+  margin: auto;
+ background-color: rgba(255, 255, 255, 0.705);
+}
